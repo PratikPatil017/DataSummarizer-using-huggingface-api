@@ -12,8 +12,3 @@ This is my nlp project where i have used huggingface tranformers text summarizer
 5. You will get an api key copy these variable for example: headers = {"Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"} with api key and replace with my code.<br>
 6. Thats it now fire up terminal and type `python app.py` 
 7.Enjoy in localhost i.e http://127.0.0.1 
-##### Note: Remember to change the host name from 0.0.0.0 to 127.0.0.1 in app.run() section.
-<br>
-If you face any problem in this contact me https://rohanpatankar.netlify.app/
-<br>
-Thankyou
